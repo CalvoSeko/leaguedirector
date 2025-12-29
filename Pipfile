@@ -11,4 +11,4 @@ psutil = "==5.9.8"
 pyobjc = {version = "==5.1.2", sys_platform = "== 'darwin'"}
 
 [requires]
-python_version = "3.11.9"
+python_version = "3.12"

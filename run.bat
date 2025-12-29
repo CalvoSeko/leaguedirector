@@ -1,4 +1,3 @@
 @echo off
-pip install pipenv==2022.3.24
-pipenv install --skip-lock
-pipenv run python -u -m leaguedirector.app
+pip install PySide6==6.6.3.1 psutil==5.9.8
+python -u -m leaguedirector.app
